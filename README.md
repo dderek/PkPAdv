@@ -47,3 +47,9 @@ And to everyone else that was part of this project somehow! Thanks!
 ---
 Rafael Brandao (a.k.a. Architect)
 
+Ajuda na instalação - By Arton
+
+Não vou postar em ingles, mas aqui vai algumas instruções para ajudar a ligar o BOT, algumas pastas precisam ser criadas, caso contrário o bot não 
+vai funcionar, dentro da pasta PKP, vc precisa criar as seguintes pastas: "box", "cadastros", "log", tendo criado estas pastas... já é possivel 
+rodar o bot.
+
